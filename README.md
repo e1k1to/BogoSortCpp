@@ -6,4 +6,4 @@ A ideia do algoritmo BogoSort pode ser comparada com o Teorema do Macaco Infinit
 
 Execução do programa:
 
-+<img src="tatata.gif" width="250px">
+<img src="tatata.gif" width="720px">
