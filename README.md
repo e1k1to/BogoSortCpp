@@ -6,4 +6,4 @@ A ideia do algoritmo BogoSort pode ser comparada com o Teorema do Macaco Infinit
 
 Execução do programa:
 
-![Teste Programa](https://cdn.discordapp.com/attachments/423287771923218439/955687195157618748/ezgif.com-gif-maker.gif)
+![Teste Programa](https://cdn.discordapp.com/attachments/423287771923218439/955688149084946472/tatata.gif)
